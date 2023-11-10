@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+/*menu*/
+
+main{
+	margin-bottom: 2px;
+}
+header{
+	font-size: 2em;
+	margin-bottom: 0.5 em;
+}
+.menu{
+	color: blue;
+	display: flex;
+	margin-bottom: 2px;
+}
+h2{
+	color: red;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fondo{
+	background-color: grey;
+	border: solid red;
+}
+span{
+	margin:20px;
+}
+span:hover{
+	color:blacK,
+}
+a{
+	text-decoration: none;
+}
+p{
+	color:white;
+}
